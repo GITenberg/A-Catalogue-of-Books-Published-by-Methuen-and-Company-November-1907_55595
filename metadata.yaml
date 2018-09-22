@@ -1,11 +1,16 @@
 _repo: A-Catalogue-of-Books-Published-by-Methuen-and-Company-November-1907_55595
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55595-h/images/cover.jpg
 creator:
   author:
     agent_name: Company, Methuen &
     gutenberg_agent_id: '48411'
     url: http://www.gutenberg.org/2009/agents/48411
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55595#A-Catalogue-of-Books-Published-by-Methuen-and-Company-November-1907
 gutenberg_issued: '2017-09-21'
 gutenberg_type: Text
 identifiers:
