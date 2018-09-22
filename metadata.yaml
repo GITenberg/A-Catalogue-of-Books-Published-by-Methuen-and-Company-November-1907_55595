@@ -1,0 +1,20 @@
+_repo: A-Catalogue-of-Books-Published-by-Methuen-and-Company-November-1907_55595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Company, Methuen &
+    gutenberg_agent_id: '48411'
+    url: http://www.gutenberg.org/2009/agents/48411
+description: ''
+gutenberg_issued: '2017-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Catalogue of Books Published by Methuen and Company, November 1907
+url: http://www.gutenberg.org/ebooks/55595
